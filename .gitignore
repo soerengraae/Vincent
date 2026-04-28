@@ -1,3 +1,4 @@
 /.vscode
 /build
 /main/secrets.h
+.claude/settings.local.json
